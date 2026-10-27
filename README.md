@@ -1,6 +1,6 @@
-# 🌱 AgroPilot AI — Assistant intelligent d’aide à la décision agricole
+# 🌱 Escape Agro AI — Assistant intelligent d’aide à la décision agricole
 
-**AgroPilot AI** est un projet que je développe dans le cadre d’un hackathon. Mon objectif est de concevoir un assistant intelligent capable d’aider les coopératives agricoles à mieux gérer leurs productions, à anticiper les risques et à prendre de meilleures décisions commerciales.
+**Escape Agro AI** est un projet que je développe dans le cadre d’un hackathon. Mon objectif est de concevoir un assistant intelligent capable d’aider les coopératives agricoles à mieux gérer leurs productions, à anticiper les risques et à prendre de meilleures décisions commerciales.
 
 Pour commencer, je me concentre sur une coopérative fictive de producteurs de manioc située dans la province de l’Estuaire, au Gabon. Ce premier cas d’usage me permet de développer et de tester les fonctionnalités principales avant d’envisager une utilisation dans des conditions réelles.
 
