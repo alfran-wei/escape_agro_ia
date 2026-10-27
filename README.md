@@ -9,7 +9,7 @@ Prototype d'agent d'aide à la décision agricole pour une coopérative fictive 
 - Validation humaine explicite.
 - Mode démo déterministe pour fonctionner sans clé API ni connexion externe.
 
-> Les données incluses sont fictives et servent uniquement à la démonstration. Ne pas présenter les résultats comme des prévisions agronomiques validées.
+> Les données incluses sont fictives et servent uniquement à la démonstration.
 
 ## Démarrage rapide
 
